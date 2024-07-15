@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f65ae53-6dad-4ba1-abe6-a04b5fe93bd8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/urlshortener$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1524341771645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Lang" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2090236534">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shortenersite/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../myenv/znutwitter" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shortenersite/migrations/urls.py" />
+        <option value="$PROJECT_DIR$/shortenersite/admin.py" />
+        <option value="$PROJECT_DIR$/shortenersite/models.py" />
+        <option value="$PROJECT_DIR$/shortenersite/static/shortenersite/css/custom.css" />
+        <option value="$PROJECT_DIR$/urlshortener/urls.py" />
+        <option value="$PROJECT_DIR$/shortenersite/templates/shortenersite/index.html" />
+        <option value="$PROJECT_DIR$/urlshortener/settings.py" />
+        <option value="$PROJECT_DIR$/shortenersite/urls.py" />
+        <option value="$PROJECT_DIR$/shortenersite/views.py" />
+        <option value="$PROJECT_DIR$/shortenersite/templates/shortenersite/base.html" />
+        <option value="G:/Lang/Lang.py" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/lang.py" />
+        <option value="G:/Lang/l.py" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/contact.html" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/forms.py" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/admin.py" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/models.py" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/urls.py" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/algorithm/about.html" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/algorithm/base.html" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/algorithm/home.html" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/views.py" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/algorithm/contact.html" />
+        <option value="$PROJECT_DIR$/../myenv/languagetheory/languagetheory/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="672" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="urlshortener" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urlshortener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="urlshortener" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urlshortener" type="462c0819:PsiDirectoryNode" />
+              <item name="shortenersite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="urlshortener" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urlshortener" type="462c0819:PsiDirectoryNode" />
+              <item name="urlshortener" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Khan\Desktop\myenv\languagetheory\algorithm\templates\algorithm" />
+      <recent name="C:\Users\Khan\Desktop\urlshortener\shortenersite\templates\shortenersite" />
+      <recent name="C:\Users\Khan\Desktop\urlshortener\shortenersite" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="urlshortener" type="Python.DjangoServer" factoryName="Django server">
+      <module name="urlshortener" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="urlshortener.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="urlshortener" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f65ae53-6dad-4ba1-abe6-a04b5fe93bd8" name="Default" comment="" />
+      <created>1522053573629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522053573629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="728" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1223565" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Data View" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shortenersite/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shortenersite/templates/shortenersite/custom.css" />
+    <entry file="file://$PROJECT_DIR$/urlshortener/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shortenersite/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urlshortener/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urlshortener/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shortenersite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myenv/znutwitter/twitterapp/templates/twitterapp/index.html" />
+    <entry file="file://$PROJECT_DIR$/../myenv/znutwitter/twitterapp/templates/twitterapp/signup.html" />
+    <entry file="file://G:/Lang/Lang.py" />
+    <entry file="file://G:/Lang/l.py" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/lang.py" />
+    <entry file="file://$PROJECT_DIR$/shortenersite/templates/shortenersite/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shortenersite/templates/shortenersite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../myenv/znutwitter/twitterapp/templates/twitterapp/base.html" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/admin.py" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/forms.py" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/models.py" />
+    <entry file="file://$PROJECT_DIR$/../myenv/znutwitter/twitterapp/views.py" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/algorithm/about.html" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/views.py" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/algorithm/contact.html" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/algorithm/home.html" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/languagetheory/settings.py" />
+    <entry file="file://$PROJECT_DIR$/../myenv/languagetheory/algorithm/templates/algorithm/base.html" />
+    <entry file="file://$PROJECT_DIR$/shortenersite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
